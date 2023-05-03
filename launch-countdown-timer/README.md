@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/launch-countdown-timer-solution-Fcrok1yzJF)
-- [Live Site URL](https://ervin-sungkono.github.io/FrontendMentor.io/launch-countdown-timer-main/index.html)
+- [Live Site URL](https://ervin-sungkono.github.io/FrontendMentor.io/launch-countdown-timer/index.html)
 
 ## My process
 1. Creating the HTML structure for the page
