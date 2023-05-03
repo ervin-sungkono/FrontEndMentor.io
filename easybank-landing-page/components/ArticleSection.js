@@ -29,8 +29,8 @@ export default function ArticleSection(){
     ]
     return(
         <section id="article-section" className="container max-w-none py-8 md:py-12 bg-light-gray">
-            <h2 className="text-2xl md:text-4xl mb-8 md:mb-12">Latest Articles</h2>
-            <div className="flex flex-wrap gap-8">
+            <h2 className="text-2xl md:text-4xl mb-8 md:mb-12 text-dark-blue">Latest Articles</h2>
+            <div className="flex flex-wrap gap-6">
                 {articleContent.map((article, index) => (
                     <ArticleCard article={article} key={index}/>
                 ))}

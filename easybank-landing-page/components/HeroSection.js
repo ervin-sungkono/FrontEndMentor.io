@@ -14,7 +14,7 @@ export default function HeroSection(){
                 <Image src={Mockups} className="absolute top-0 left-1/2 -translate-x-1/2 w-[80%] object-cover z-10"/>
             </div>
             <div className="flex flex-col gap-4 w-full md:w-2/5 items-center md:items-start">
-                <h1 className="text-3xl md:text-4xl lg:text-5xl text-center md:text-left">Next generation digital banking</h1>
+                <h1 className="text-3xl md:text-4xl lg:text-5xl text-center md:text-left text-dark-blue">Next generation digital banking</h1>
                 <p className="text-base md:text-lg text-grayish-blue mb-2 font-light text-center md:text-left">Take your financial life online. Your Easybank account will be a one-stop-shop for spending, saving, budgeting, investing, and much more.</p>
                 <Link href={"#invite"}>
                     <Button>Request Invite</Button>

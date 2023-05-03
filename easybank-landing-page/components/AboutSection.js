@@ -26,10 +26,10 @@ export default function AboutSection(){
     return(
         <section id="about-section" className="container max-w-none py-8 md:py-12 bg-light-grayish-blue">
             <div className="max-w-2xl mb-12 md:mb-16">
-                <h2 className="text-2xl md:text-4xl mb-4 text-center md:text-left">Why choose Easybank?</h2>
+                <h2 className="text-2xl md:text-4xl mb-4 text-center md:text-left text-dark-blue">Why choose Easybank?</h2>
                 <p className="text-base md:text-lg text-grayish-blue font-light text-center md:text-left">We leverage Open Banking to turn your bank account into your financial hub. Control your finances like never before.</p>
             </div>
-            <div className="flex flex-wrap gap-8">
+            <div className="flex flex-wrap gap-6">
                 {
                     aboutContent.map((content, index) => (
                         <AboutCard content={content} key={index}/>
