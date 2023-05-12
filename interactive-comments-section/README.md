@@ -44,8 +44,8 @@ After breaking down into components, I started developing from the outermost com
 
 ### Built with
 
-- Next.js
-- Tailwind CSS
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 ## Author
 
